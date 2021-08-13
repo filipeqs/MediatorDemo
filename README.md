@@ -12,7 +12,7 @@ First clone this repository
 $ git clone https://github.com/filipeqs/MediatorDemo.git
 ```
 
-Set DemoApi or BlazorUi as start up project.
+Set DemoApi or BlazorUi as Start Up Project and Run.
 
 ## Resources
 
