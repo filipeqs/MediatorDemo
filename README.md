@@ -16,4 +16,4 @@ Set DemoApi or BlazorUi as Start Up Project and Run.
 
 ## Resources
 
-- Icon: https://www.youtube.com/watch?v=yozD5Tnd8nw&t=793s
+- Tutorial: https://www.youtube.com/watch?v=yozD5Tnd8nw&t=793s
